@@ -21,7 +21,7 @@ public class ReportingStructureServiceImpl implements ReportingStructureService 
     private EmployeeServiceImpl employeeService;
 
     /**
-     * Get Number Of Repots
+     * Get Number Of Reports
      *
      * @param employeeId
      * @return
